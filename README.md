@@ -1,6 +1,6 @@
 图片隐写的远程shellcode加载器，无文件落地版本
 ---
-采用des加密，所以需要des加密的shellcode网址,和des的key
+采用des加密，所以需要des加密的shellcode网址,和des的key（将隐写的图片放入web服务器）
 ---
 vt查杀率：4/66
 ![avatar](https://github.com/TRYblog/shellcode-load-web/blob/main/123.png)
