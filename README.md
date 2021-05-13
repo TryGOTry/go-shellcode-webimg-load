@@ -11,5 +11,9 @@ vt查杀率：4/66
  go build -ldflags "-w -s -H=windowsgui -X main.deskey=deskey的网址 -X main.descode=descode的网址"
 ```
 ### 关于图片隐写
-可用在线生成: c2.57dir.com
+[在线生成](http://c2.57dir.com)
+### 关于作者
+一个菜鸟.
+[个人博客](https://www.nctry.com)
+
 2021.03.10
