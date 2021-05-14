@@ -12,6 +12,7 @@ vt查杀率：4/66
 ```
 ### 关于图片隐写
 [在线生成](http://c2.57dir.com)
+图片隐写项目:https://github.com/auyer/steganography
 ### 关于作者
 一个菜鸟.
 [个人博客](https://www.nctry.com)
