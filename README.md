@@ -10,6 +10,9 @@ vt查杀率：4/66
 ```
  go build -ldflags "-w -s -H=windowsgui -X main.deskey=deskey的网址 -X main.descode=descode的网址"
 ```
+### 关于shellcode加密
+[相关项目](https://github.com/TRYblog/des.hex-encodefile)
+直接加密64位的raw格式的payload即可
 ### 关于图片隐写
 [在线生成](http://c2.57dir.com)
 图片隐写项目:https://github.com/auyer/steganography
