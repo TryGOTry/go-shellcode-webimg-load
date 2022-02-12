@@ -8,7 +8,7 @@ vt查杀率：4/66
 ![avatar](https://github.com/TRYblog/shellcode-load-web/blob/main/456.png)
 ### 如何编译
 ```
- go build -ldflags "-w -s -H=windowsgui -X main.deskey=deskey的网址 -X main.descode=descode的网址"
+ go build -ldflags "-w -H=windowsgui -X main.deskey=deskey的网址 -X main.descode=descode的网址"
 ```
 ### 关于shellcode加密
 [相关项目](https://github.com/TRYblog/des.hex-encodefile)
